@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac3d098a-2057-4070-8759-f31e0548654d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fW1fbty8R5uQveaIUjjNpRro3F" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="TestNG.registration.RegisterApplication">
+    <configuration name="registration.RegisterApplication" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SliceLife" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SliceLifeTasks.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SliceLifeTasks.tests" />
+      <option name="MAIN_CLASS_NAME" value="SliceLifeTasks.tests.registration" />
+      <option name="METHOD_NAME" value="RegisterApplication" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="registration.register" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SliceLife" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SliceLifeTasks.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SliceLifeTasks.tests" />
+      <option name="MAIN_CLASS_NAME" value="SliceLifeTasks.tests.registration" />
+      <option name="METHOD_NAME" value="register" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.registration.RegisterApplication" />
+        <item itemvalue="TestNG.registration.register" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac3d098a-2057-4070-8759-f31e0548654d" name="Default Changelist" comment="" />
+      <created>1596319138140</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596319138140</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="209" key="GridCell.Tab.0.bottom" timestamp="1596498525992">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1596326060869" />
+    <state width="1398" height="209" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1596379661951" />
+    <state width="1398" height="209" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1596498525992" />
+    <state width="1398" height="209" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1596399657521" />
+    <state width="1398" height="209" key="GridCell.Tab.0.center" timestamp="1596498525991">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1596326060867" />
+    <state width="1398" height="209" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1596379661950" />
+    <state width="1398" height="209" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1596498525991" />
+    <state width="1398" height="209" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1596399657521" />
+    <state width="1398" height="209" key="GridCell.Tab.0.left" timestamp="1596498525990">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1596326060866" />
+    <state width="1398" height="209" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1596379661949" />
+    <state width="1398" height="209" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1596498525990" />
+    <state width="1398" height="209" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1596399657520" />
+    <state width="1398" height="209" key="GridCell.Tab.0.right" timestamp="1596498525991">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1596326060868" />
+    <state width="1398" height="209" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1596379661951" />
+    <state width="1398" height="209" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1596498525991" />
+    <state width="1398" height="209" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1596399657521" />
+    <state x="258" y="112" key="Maven.ArtifactSearchDialog" timestamp="1596323991170">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="258" y="112" key="Maven.ArtifactSearchDialog/0.0.1440.900@0.0.1440.900" timestamp="1596323991170" />
+    <state x="229" y="89" key="SettingsEditor" timestamp="1596325043270">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1596325043270" />
+    <state x="399" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1596498472012">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="399" y="262" key="com.intellij.ide.util.TipDialog/0.23.1440.814@0.23.1440.814" timestamp="1596326550482" />
+    <state x="399" y="263" key="com.intellij.ide.util.TipDialog/0.23.1440.816@0.23.1440.816" timestamp="1596361866690" />
+    <state x="399" y="264" key="com.intellij.ide.util.TipDialog/0.23.1440.821@0.23.1440.821" timestamp="1596498472012" />
+    <state x="399" y="264" key="com.intellij.ide.util.TipDialog/0.23.1440.822@0.23.1440.822" timestamp="1596399673875" />
+  </component>
+</project>
